@@ -1,0 +1,54 @@
+[gd_scene load_steps=8 format=3 uid="uid://c6e454h0ousq8"]
+
+[ext_resource type="Texture2D" uid="uid://do48tft1ligwi" path="res://assets/monstera.png" id="1_xj186"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kjhd0"]
+atlas = ExtResource("1_xj186")
+region = Rect2(0, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mhut3"]
+atlas = ExtResource("1_xj186")
+region = Rect2(64, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_r7lkf"]
+atlas = ExtResource("1_xj186")
+region = Rect2(128, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jr4xv"]
+atlas = ExtResource("1_xj186")
+region = Rect2(192, 0, 64, 64)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_bx4n1"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_kjhd0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mhut3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_r7lkf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jr4xv")
+}],
+"loop": true,
+"name": &"default",
+"speed": 3.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_k62ik"]
+radius = 2.0
+height = 6.0
+
+[node name="Monstera" type="StaticBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_bx4n1")
+autoplay = "default"
+frame_progress = 0.667892
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(4, 9)
+shape = SubResource("CapsuleShape2D_k62ik")

@@ -1,0 +1,47 @@
+[gd_scene load_steps=7 format=3 uid="uid://cu7y87gu7ifqh"]
+
+[ext_resource type="Texture2D" uid="uid://c13e77covgaxh" path="res://assets/ducks.png" id="1_grx4o"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_d6d5k"]
+atlas = ExtResource("1_grx4o")
+region = Rect2(0, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_68et5"]
+atlas = ExtResource("1_grx4o")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mn2d6"]
+atlas = ExtResource("1_grx4o")
+region = Rect2(32, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_bx4n1"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_d6d5k")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_68et5")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mn2d6")
+}],
+"loop": true,
+"name": &"default",
+"speed": 3.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_k62ik"]
+radius = 4.0
+height = 8.0
+
+[node name="DuckLeft" type="StaticBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_bx4n1")
+autoplay = "default"
+frame_progress = 0.708362
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-1, 0)
+shape = SubResource("CapsuleShape2D_k62ik")

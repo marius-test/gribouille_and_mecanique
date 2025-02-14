@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2put64ths3yj"
-path="res://.godot/imported/grass-dirt-water-16x16-tiles-v2.png-72f35df586152a3471b30ea87cfc01d0.ctex"
+uid="uid://ct8ffl2r2tslr"
+path="res://.godot/imported/banana-tree-w-bananas.png-905ab74a525cbfdbb1243729050eacc4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grass-dirt-water-16x16-tiles-v2.png"
-dest_files=["res://.godot/imported/grass-dirt-water-16x16-tiles-v2.png-72f35df586152a3471b30ea87cfc01d0.ctex"]
+source_file="res://assets/banana-tree-w-bananas.png"
+dest_files=["res://.godot/imported/banana-tree-w-bananas.png-905ab74a525cbfdbb1243729050eacc4.ctex"]
 
 [params]
 

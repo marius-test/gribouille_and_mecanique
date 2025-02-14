@@ -1,0 +1,67 @@
+[gd_scene load_steps=10 format=3 uid="uid://cayj6y5gq5mc7"]
+
+[ext_resource type="Texture2D" uid="uid://jwrifued4whl" path="res://assets/banana-tree.png" id="1_gj4g8"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0hsrn"]
+atlas = ExtResource("1_gj4g8")
+region = Rect2(0, 0, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nt2jq"]
+atlas = ExtResource("1_gj4g8")
+region = Rect2(128, 0, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_84lh3"]
+atlas = ExtResource("1_gj4g8")
+region = Rect2(256, 0, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_u080g"]
+atlas = ExtResource("1_gj4g8")
+region = Rect2(384, 0, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_akpro"]
+atlas = ExtResource("1_gj4g8")
+region = Rect2(512, 0, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q64py"]
+atlas = ExtResource("1_gj4g8")
+region = Rect2(640, 0, 128, 128)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_bx4n1"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0hsrn")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nt2jq")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_84lh3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_u080g")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_akpro")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_q64py")
+}],
+"loop": true,
+"name": &"default",
+"speed": 3.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ahs6a"]
+size = Vector2(9, 10)
+
+[node name="BananaTree" type="StaticBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_bx4n1")
+autoplay = "default"
+frame_progress = 0.677943
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(2.5, 31)
+shape = SubResource("RectangleShape2D_ahs6a")
