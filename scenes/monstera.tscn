@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://c6e454h0ousq8"]
 
-[ext_resource type="Texture2D" uid="uid://do48tft1ligwi" path="res://assets/monstera.png" id="1_xj186"]
+[ext_resource type="Texture2D" uid="uid://do48tft1ligwi" path="res://assets/plants/monstera.png" id="1_xj186"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_kjhd0"]
 atlas = ExtResource("1_xj186")

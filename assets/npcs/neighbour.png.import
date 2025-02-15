@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dp44yuqap7for"
-path="res://.godot/imported/grib-idle.png-185cd179e364616b42cface700029431.ctex"
+uid="uid://baoh4euq8u83p"
+path="res://.godot/imported/neighbour.png-7ba0415a1e925e09202b391d566a8d41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib-idle.png"
-dest_files=["res://.godot/imported/grib-idle.png-185cd179e364616b42cface700029431.ctex"]
+source_file="res://assets/npcs/neighbour.png"
+dest_files=["res://.godot/imported/neighbour.png-7ba0415a1e925e09202b391d566a8d41.ctex"]
 
 [params]
 

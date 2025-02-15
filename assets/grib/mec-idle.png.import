@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c13e77covgaxh"
-path="res://.godot/imported/ducks.png-4655ef0e8cd53f12afe7c31c24ba239a.ctex"
+uid="uid://cdk578ye080nu"
+path="res://.godot/imported/mec-idle.png-9c00ee2697ea9aa705e159e1f66de05d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ducks.png"
-dest_files=["res://.godot/imported/ducks.png-4655ef0e8cd53f12afe7c31c24ba239a.ctex"]
+source_file="res://assets/grib/mec-idle.png"
+dest_files=["res://.godot/imported/mec-idle.png-9c00ee2697ea9aa705e159e1f66de05d.ctex"]
 
 [params]
 

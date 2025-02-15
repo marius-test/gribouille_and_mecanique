@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2put64ths3yj"
-path="res://.godot/imported/terrain-16x16-tiles-v2.png-1ba3217b4ff2c75a4894ca03288b3fa9.ctex"
+uid="uid://b648g8w3ecd7q"
+path="res://.godot/imported/pigeons.png-e4692764b7e08a94670c691c9748f2a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/terrain-16x16-tiles-v2.png"
-dest_files=["res://.godot/imported/terrain-16x16-tiles-v2.png-1ba3217b4ff2c75a4894ca03288b3fa9.ctex"]
+source_file="res://assets/animals/pigeons.png"
+dest_files=["res://.godot/imported/pigeons.png-e4692764b7e08a94670c691c9748f2a0.ctex"]
 
 [params]
 

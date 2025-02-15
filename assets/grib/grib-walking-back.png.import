@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dk7k5qio0k3nr"
-path="res://.godot/imported/terrain-16x16-tiles-v3.2.png-ae6dbae7a74b68f3433486024d31b788.ctex"
+uid="uid://u2c771igy7kj"
+path="res://.godot/imported/grib-walking-back.png-6cd17fa5389ac2eb7510cd22239cc22d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/terrain-16x16-tiles-v3.2.png"
-dest_files=["res://.godot/imported/terrain-16x16-tiles-v3.2.png-ae6dbae7a74b68f3433486024d31b788.ctex"]
+source_file="res://assets/grib/grib-walking-back.png"
+dest_files=["res://.godot/imported/grib-walking-back.png-6cd17fa5389ac2eb7510cd22239cc22d.ctex"]
 
 [params]
 

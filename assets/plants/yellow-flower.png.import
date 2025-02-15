@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cepfibuo4b857"
-path="res://.godot/imported/palm-tree.png-4d09303ab19ebc9cae607f2551c0ec23.ctex"
+uid="uid://cop13qf5khu6b"
+path="res://.godot/imported/yellow-flower.png-22c38f5722d6e67c3259fa5922ad16be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/palm-tree.png"
-dest_files=["res://.godot/imported/palm-tree.png-4d09303ab19ebc9cae607f2551c0ec23.ctex"]
+source_file="res://assets/plants/yellow-flower.png"
+dest_files=["res://.godot/imported/yellow-flower.png-22c38f5722d6e67c3259fa5922ad16be.ctex"]
 
 [params]
 

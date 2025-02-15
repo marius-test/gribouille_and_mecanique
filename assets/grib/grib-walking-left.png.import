@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coubgk8nh1ain"
-path="res://.godot/imported/grib-walking-left.png-798d273b5cd45f2866169656bb856566.ctex"
+path="res://.godot/imported/grib-walking-left.png-fbe9f077d55e077ccb5de9f8ae1de194.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib-walking-left.png"
-dest_files=["res://.godot/imported/grib-walking-left.png-798d273b5cd45f2866169656bb856566.ctex"]
+source_file="res://assets/grib/grib-walking-left.png"
+dest_files=["res://.godot/imported/grib-walking-left.png-fbe9f077d55e077ccb5de9f8ae1de194.ctex"]
 
 [params]
 

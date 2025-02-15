@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cti5ol5n3vcxg"
-path="res://.godot/imported/mec-sit.png-e6c53d2d85c8aab9eb3cc5bb22aaba2e.ctex"
+uid="uid://bnsmkopudf6u3"
+path="res://.godot/imported/grib-walking-right.png-78bd6c998c7488479e5a661c28f6963f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/mec-sit.png"
-dest_files=["res://.godot/imported/mec-sit.png-e6c53d2d85c8aab9eb3cc5bb22aaba2e.ctex"]
+source_file="res://assets/grib/grib-walking-right.png"
+dest_files=["res://.godot/imported/grib-walking-right.png-78bd6c998c7488479e5a661c28f6963f.ctex"]
 
 [params]
 

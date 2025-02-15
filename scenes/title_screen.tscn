@@ -1,7 +1,7 @@
 [gd_scene load_steps=21 format=3 uid="uid://bpl23rc6jj4nr"]
 
 [ext_resource type="Script" path="res://scripts/main_menu.gd" id="1_j7v8f"]
-[ext_resource type="Texture2D" uid="uid://d10g2p8x306lj" path="res://assets/grib-menu.png" id="1_pxw5r"]
+[ext_resource type="Texture2D" uid="uid://d10g2p8x306lj" path="res://assets/grib/grib-menu.png" id="1_pxw5r"]
 [ext_resource type="FontFile" uid="uid://c1cab02jll0se" path="res://assets/Jersey10Charted-Regular.ttf" id="3_fuhpj"]
 
 [sub_resource type="Gradient" id="Gradient_oejm6"]

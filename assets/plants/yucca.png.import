@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdk578ye080nu"
-path="res://.godot/imported/mec-idle.png-6d4b54b2c70b2a7f15be2c45e62932cf.ctex"
+uid="uid://rsuyh14kel0c"
+path="res://.godot/imported/yucca.png-6d35fd76c8d485800e4dba4069d5969f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/mec-idle.png"
-dest_files=["res://.godot/imported/mec-idle.png-6d4b54b2c70b2a7f15be2c45e62932cf.ctex"]
+source_file="res://assets/plants/yucca.png"
+dest_files=["res://.godot/imported/yucca.png-6d35fd76c8d485800e4dba4069d5969f.ctex"]
 
 [params]
 

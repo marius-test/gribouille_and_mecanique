@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d4hlvpgs5akvq"
-path="res://.godot/imported/grib-walking-front.png-bcc98edd1d613de2ed21fe020003753c.ctex"
+uid="uid://jwrifued4whl"
+path="res://.godot/imported/banana-tree.png-804fcb1a09efd870b992de679d47eb6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib-walking-front.png"
-dest_files=["res://.godot/imported/grib-walking-front.png-bcc98edd1d613de2ed21fe020003753c.ctex"]
+source_file="res://assets/plants/banana-tree.png"
+dest_files=["res://.godot/imported/banana-tree.png-804fcb1a09efd870b992de679d47eb6a.ctex"]
 
 [params]
 

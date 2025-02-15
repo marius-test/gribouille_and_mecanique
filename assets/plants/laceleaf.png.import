@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cs03vq1v1oumy"
-path="res://.godot/imported/terrain-16x16-tiles-v3.1.png-0382ac93be7f79ea15f22aa4b62ad50d.ctex"
+uid="uid://cx7m3h1rfel8m"
+path="res://.godot/imported/laceleaf.png-916d016f6752a2dd4379b2efcae2349a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/terrain-16x16-tiles-v3.1.png"
-dest_files=["res://.godot/imported/terrain-16x16-tiles-v3.1.png-0382ac93be7f79ea15f22aa4b62ad50d.ctex"]
+source_file="res://assets/plants/laceleaf.png"
+dest_files=["res://.godot/imported/laceleaf.png-916d016f6752a2dd4379b2efcae2349a.ctex"]
 
 [params]
 

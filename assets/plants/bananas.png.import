@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d10g2p8x306lj"
-path="res://.godot/imported/grib-menu.png-ce93ef720093c4e9ad3081a839e1e153.ctex"
+uid="uid://cmcs74m5whubu"
+path="res://.godot/imported/bananas.png-fbd18c2d18495a76eb99ba58555b4271.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib-menu.png"
-dest_files=["res://.godot/imported/grib-menu.png-ce93ef720093c4e9ad3081a839e1e153.ctex"]
+source_file="res://assets/plants/bananas.png"
+dest_files=["res://.godot/imported/bananas.png-fbd18c2d18495a76eb99ba58555b4271.ctex"]
 
 [params]
 

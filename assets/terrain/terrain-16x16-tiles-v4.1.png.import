@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jwrifued4whl"
-path="res://.godot/imported/banana-tree.png-618a5c1d899cb97ffc040601211810ed.ctex"
+uid="uid://b6cgaxsutebiq"
+path="res://.godot/imported/terrain-16x16-tiles-v4.1.png-c3cbbaee88e24597d258112caa455265.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/banana-tree.png"
-dest_files=["res://.godot/imported/banana-tree.png-618a5c1d899cb97ffc040601211810ed.ctex"]
+source_file="res://assets/terrain/terrain-16x16-tiles-v4.1.png"
+dest_files=["res://.godot/imported/terrain-16x16-tiles-v4.1.png-c3cbbaee88e24597d258112caa455265.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnsmkopudf6u3"
-path="res://.godot/imported/grib-walking-right.png-550ddd86661b5746f07db975023f0289.ctex"
+uid="uid://c13e77covgaxh"
+path="res://.godot/imported/ducks.png-262b3c1e817d76b25ae43a47fb3cd48a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib-walking-right.png"
-dest_files=["res://.godot/imported/grib-walking-right.png-550ddd86661b5746f07db975023f0289.ctex"]
+source_file="res://assets/animals/ducks.png"
+dest_files=["res://.godot/imported/ducks.png-262b3c1e817d76b25ae43a47fb3cd48a.ctex"]
 
 [params]
 
