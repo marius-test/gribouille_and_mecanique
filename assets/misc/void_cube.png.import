@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b6cgaxsutebiq"
-path="res://.godot/imported/terrain-16x16-tiles-v4.1.png-c3cbbaee88e24597d258112caa455265.ctex"
+uid="uid://wypm42cwkcd4"
+path="res://.godot/imported/void_cube.png-e6007e81054df79fb54d97ebfbace995.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/terrain/terrain-16x16-tiles-v4.1.png"
-dest_files=["res://.godot/imported/terrain-16x16-tiles-v4.1.png-c3cbbaee88e24597d258112caa455265.ctex"]
+source_file="res://assets/misc/void_cube.png"
+dest_files=["res://.godot/imported/void_cube.png-e6007e81054df79fb54d97ebfbace995.ctex"]
 
 [params]
 
