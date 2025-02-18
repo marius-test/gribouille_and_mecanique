@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ct8ffl2r2tslr"
-path="res://.godot/imported/banana-tree-w-bananas.png-ef5bf36f85d2672980aef74573be8305.ctex"
+uid="uid://dvr0qt3u7gunw"
+path="res://.godot/imported/meca-sit.png-f784dbe08654f47fdfc6198bada77a27.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/plants/banana-tree-w-bananas.png"
-dest_files=["res://.godot/imported/banana-tree-w-bananas.png-ef5bf36f85d2672980aef74573be8305.ctex"]
+source_file="res://assets/meca/meca-sit.png"
+dest_files=["res://.godot/imported/meca-sit.png-f784dbe08654f47fdfc6198bada77a27.ctex"]
 
 [params]
 

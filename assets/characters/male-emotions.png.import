@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cepfibuo4b857"
-path="res://.godot/imported/palm-tree.png-30cea6b8760297bb3e84679ff72fc7fd.ctex"
+uid="uid://b1xidrkafimlt"
+path="res://.godot/imported/male-emotions.png-e3fa27eabc195484cffe12ee85b49e59.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/plants/palm-tree.png"
-dest_files=["res://.godot/imported/palm-tree.png-30cea6b8760297bb3e84679ff72fc7fd.ctex"]
+source_file="res://assets/characters/male-emotions.png"
+dest_files=["res://.godot/imported/male-emotions.png-e3fa27eabc195484cffe12ee85b49e59.ctex"]
 
 [params]
 

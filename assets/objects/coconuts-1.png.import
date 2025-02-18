@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdk578ye080nu"
-path="res://.godot/imported/mec-idle.png-9c00ee2697ea9aa705e159e1f66de05d.ctex"
+uid="uid://ixu6sbepyrnj"
+path="res://.godot/imported/coconuts-1.png-e928c4a751adfbe98b844babec25a3d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib/mec-idle.png"
-dest_files=["res://.godot/imported/mec-idle.png-9c00ee2697ea9aa705e159e1f66de05d.ctex"]
+source_file="res://assets/objects/coconuts-1.png"
+dest_files=["res://.godot/imported/coconuts-1.png-e928c4a751adfbe98b844babec25a3d1.ctex"]
 
 [params]
 

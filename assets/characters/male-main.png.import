@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cti5ol5n3vcxg"
-path="res://.godot/imported/mec-sit.png-a224189376e50ed4b46cb980a46fb7ec.ctex"
+uid="uid://b16a61gp6q3q0"
+path="res://.godot/imported/male-main.png-39a3b782f0e1814ae2e2e320d587d3b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grib/mec-sit.png"
-dest_files=["res://.godot/imported/mec-sit.png-a224189376e50ed4b46cb980a46fb7ec.ctex"]
+source_file="res://assets/characters/male-main.png"
+dest_files=["res://.godot/imported/male-main.png-39a3b782f0e1814ae2e2e320d587d3b4.ctex"]
 
 [params]
 
