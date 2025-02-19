@@ -1,0 +1,40 @@
+[gd_scene load_steps=6 format=3 uid="uid://ca356uworola3"]
+
+[ext_resource type="Texture2D" uid="uid://b648g8w3ecd7q" path="res://assets/animals/pigeons.png" id="1_n07xb"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pbw56"]
+atlas = ExtResource("1_n07xb")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qtlk7"]
+atlas = ExtResource("1_n07xb")
+region = Rect2(0, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_bx4n1"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_pbw56")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qtlk7")
+}],
+"loop": true,
+"name": &"default",
+"speed": 3.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_k62ik"]
+radius = 3.0
+height = 6.0
+
+[node name="PigeonRight" type="StaticBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_bx4n1")
+autoplay = "default"
+frame_progress = 0.654907
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-2, 2)
+shape = SubResource("CapsuleShape2D_k62ik")

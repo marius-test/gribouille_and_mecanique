@@ -148,7 +148,8 @@ grow_vertical = 2
 
 [node name="LoadAnimation" type="AnimatedSprite2D" parent="TextureRect"]
 texture_filter = 1
-scale = Vector2(3, 3)
+position = Vector2(0, -30)
+scale = Vector2(5, 5)
 sprite_frames = SubResource("SpriteFrames_gskuy")
 autoplay = "default"
 frame_progress = 0.588549

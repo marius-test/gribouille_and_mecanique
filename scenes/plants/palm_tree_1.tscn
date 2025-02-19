@@ -1,17 +1,17 @@
 [gd_scene load_steps=7 format=3 uid="uid://ecqu2atq7ose"]
 
-[ext_resource type="Texture2D" uid="uid://b02itx2wb8lpb" path="res://assets/plants/palm-tree-1.png" id="1_sx4jw"]
+[ext_resource type="Texture2D" uid="uid://b02itx2wb8lpb" path="res://assets/plants/palm-tree-1.png" id="1_uqxm0"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0fhoh"]
-atlas = ExtResource("1_sx4jw")
+atlas = ExtResource("1_uqxm0")
 region = Rect2(0, 0, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_jd1hm"]
-atlas = ExtResource("1_sx4jw")
+atlas = ExtResource("1_uqxm0")
 region = Rect2(64, 0, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mmml5"]
-atlas = ExtResource("1_sx4jw")
+atlas = ExtResource("1_uqxm0")
 region = Rect2(128, 0, 64, 64)
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_bx4n1"]
@@ -34,14 +34,15 @@ animations = [{
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_kywqp"]
 size = Vector2(4.125, 5)
 
-[node name="PalmTree" type="StaticBody2D"]
+[node name="PalmTree1" type="StaticBody2D"]
 scale = Vector2(4, 4)
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(2, -16.5)
 sprite_frames = SubResource("SpriteFrames_bx4n1")
 autoplay = "default"
 frame_progress = 0.137286
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-2.0625, 29.5)
+position = Vector2(0, 13)
 shape = SubResource("RectangleShape2D_kywqp")
