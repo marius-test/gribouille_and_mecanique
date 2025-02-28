@@ -26,6 +26,7 @@ tile_map_data = PackedByteArray("AADw//3/BQANAAIAAADw//7/BQANAAEAAADw////BQANAAM
 tile_set = ExtResource("1_v7xcu")
 
 [node name="Gribouille" parent="." instance=ExtResource("3_aiajm")]
+texture_repeat = 1
 
 [node name="Camera2D" type="Camera2D" parent="Gribouille"]
 position_smoothing_enabled = true
@@ -62,5 +63,5 @@ position = Vector2(1, -158)
 scale = Vector2(3, 3)
 
 [node name="PalmTree2_1" parent="Palms" instance=ExtResource("8_7drui")]
-position = Vector2(-33, -135)
+position = Vector2(-34, -133)
 scale = Vector2(2, 2)

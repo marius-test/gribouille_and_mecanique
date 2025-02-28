@@ -16,6 +16,10 @@ func _physics_process(_delta):
 	velocity = direction * speed
 	move_and_slide()
 	
+	# snap position to whole pixels to prevent pixel splitting
+	position.x = round(position.x)
+	position.y = round(position.y)
+	
 	play_animation(direction)
 	
 
