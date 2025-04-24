@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://u2c771igy7kj" path="res://assets/grib/grib-walking-back.png" id="1_1j6g1"]
 [ext_resource type="Texture2D" uid="uid://d4hlvpgs5akvq" path="res://assets/grib/grib-walking-front.png" id="1_jevcv"]
-[ext_resource type="Script" path="res://scripts/gribouille.gd" id="1_yxv4r"]
+[ext_resource type="Script" uid="uid://cy3oe1s54pduu" path="res://scripts/gribouille.gd" id="1_yxv4r"]
 [ext_resource type="Texture2D" uid="uid://dp44yuqap7for" path="res://assets/grib/grib-idle.png" id="2_o28ua"]
 [ext_resource type="Texture2D" uid="uid://coubgk8nh1ain" path="res://assets/grib/grib-walking-left.png" id="3_sfdss"]
 [ext_resource type="Texture2D" uid="uid://bnsmkopudf6u3" path="res://assets/grib/grib-walking-right.png" id="4_4hlj2"]
