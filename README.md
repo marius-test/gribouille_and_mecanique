@@ -8,4 +8,4 @@ Coded by me, assets by Mélanie (my girlfriend).
 
 Tools used: Godot 4, Aseprite, Resprite (on iPad), Tiled Map Editor, paint.net.
 
-This project is... !!!UNDER CONSTRUCTION!!!
+This project is... **!!!UNDER CONSTRUCTION!!!**
