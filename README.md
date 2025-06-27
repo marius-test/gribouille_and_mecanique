@@ -1,11 +1,36 @@
 # gribouille_and_mecanique
 
-My original videogame in **Godot Engine 4**.
+An original 2D pixel art RPG developed in **Godot Engine 4**.
 
-Pixel art/retro style RPG about my two cats: Gribouille (the black cat) and Mecanique (the grey cat).
+This game tells a retro-style story inspired by my two cats: Gribouille (the black cat) and Mecanique (the grey cat).
 
-Coded by me, assets by Mélanie (my girlfriend).
+The game is coded by me, with all art assets created by Mélanie S. (my partner).
 
-Tools used: Godot 4, Aseprite, Resprite (on iPad), Tiled Map Editor, paint.net.
+This is an early-stage prototype with the goal of evolving into a fully original game.
 
-This project is... **!!!UNDER CONSTRUCTION!!!**
+### Tools used
+
+- Godot Engine 4  
+- Aseprite  
+- Resprite (iPad)  
+- Tiled Map Editor  
+- Paint.NET  
+
+### Current features implemented
+
+- Character Gribouille with 8-directional movement  
+- Walking animations: up, down, left, right (4 frames each)  
+- Idle animation (5 frames)  
+- Multiple sprites from Mélanie, my partner: Gribouille, Mecanique, plants, trees, terrain, water  
+- Walkable prototype map with collision detection  
+- Ambient wildlife animations: ducks, birds  
+- Main menu featuring a loading animation and concept art of Gribouille
+
+### Planned features
+
+- Pixel art retro RPG gameplay  
+- Story and quests centered around Gribouille and Mecanique  
+- Turn-based or action combat (TBD)  
+- Exploration and puzzles  
+- Original soundtrack and sound effects  
+- Further asset creation and polish
