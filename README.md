@@ -37,7 +37,7 @@ This is an early-stage prototype with the goal of evolving into a fully original
 
 ---
 
-## License & Copyright
+### License & Copyright
 
 © 2025 Void Studios — Marius Briscut and Mélanie Saulo. All rights reserved.
 
