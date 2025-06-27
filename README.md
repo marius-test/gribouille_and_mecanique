@@ -34,3 +34,11 @@ This is an early-stage prototype with the goal of evolving into a fully original
 - Exploration and puzzles  
 - Original soundtrack and sound effects  
 - Further asset creation and polish
+
+---
+
+## License & Copyright
+
+© 2025 Void Studios — Marius Briscut and Mélanie Saulo. All rights reserved.
+
+This project, including all code, assets, and content, is the intellectual property of Void Studios and its authors. Unauthorized copying, distribution, or use is prohibited without explicit permission.
