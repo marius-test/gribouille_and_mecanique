@@ -8,7 +8,7 @@ The game is coded by me, with all art assets created by Mélanie S. (my partner)
 
 This is an early-stage prototype with the goal of evolving into a fully original game.
 
-### Tools used
+### Tools
 
 - Godot Engine 4  
 - Aseprite  
