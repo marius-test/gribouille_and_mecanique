@@ -4,7 +4,7 @@ An original 2D pixel art RPG developed in **Godot Engine 4**.
 
 This game tells a retro-style story inspired by my two cats: Gribouille (the black cat) and Mecanique (the grey cat).
 
-The game is coded by me, with all art assets created by Mélanie S. (my partner).
+The game is coded by me, with all art assets created by Mélanie S.
 
 This is an early-stage prototype with the goal of evolving into a fully original game.
 
