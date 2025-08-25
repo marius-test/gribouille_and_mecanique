@@ -4,7 +4,7 @@ An original 2D pixel art RPG developed in **Godot Engine 4**.
 
 This game tells a retro-style story inspired by my two cats: Gribouille (the black cat) and Mecanique (the grey cat).
 
-The game is coded by me, with all art assets created by Mélanie S. (my partner).
+The game is coded by me, with all art assets created by Mélanie S.
 
 This is an early-stage prototype with the goal of evolving into a fully original game.
 
@@ -37,8 +37,6 @@ This is an early-stage prototype with the goal of evolving into a fully original
 
 ---
 
-### License & Copyright
+### License
 
-© 2025 Void Studios - Marius Briscut and Mélanie Saulo. All rights reserved.
-
-This project, including all code, assets, and content, is the intellectual property of Void Studios and its authors. Unauthorized copying, distribution, or use is prohibited without explicit permission.
+© 2025 Void Studios - Marius Briscut and Mélanie Saulo. All rights reserved. See LICENSE file for details.
