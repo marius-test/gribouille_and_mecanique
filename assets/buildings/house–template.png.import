@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b1xidrkafimlt"
-path="res://.godot/imported/male-emotions.png-e3fa27eabc195484cffe12ee85b49e59.ctex"
+uid="uid://cah01q2imop0w"
+path="res://.godot/imported/house–template.png-b1aa3e565d27d119a505efa34389ff74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/characters/male-emotions.png"
-dest_files=["res://.godot/imported/male-emotions.png-e3fa27eabc195484cffe12ee85b49e59.ctex"]
+source_file="res://assets/buildings/house–template.png"
+dest_files=["res://.godot/imported/house–template.png-b1aa3e565d27d119a505efa34389ff74.ctex"]
 
 [params]
 
